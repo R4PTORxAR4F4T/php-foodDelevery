@@ -1,0 +1,9 @@
+arafat:arafat@gmail.com:arafat123:arafat123:employee
+admin:admin@gmail.com:admin123:admin123:admin
+rafi:rafi@gmail.com:rafi123:rafi123:employee
+nafim:nafim@gmail.com:nafim123:nafim123:user
+sanjida:sanjida@gmail.com:tasnim123:tasnim123:user
+rakib:rakib@gmail.com:rakib123:rakib123:user
+nadia:nadia@gmail.com:nadia123:nadia123:user
+sumon:sumon@gmail.com:sumon123:sumon123:user
+tasnim:tasnim@gmail.com:tasnim123:tasnim123:user
