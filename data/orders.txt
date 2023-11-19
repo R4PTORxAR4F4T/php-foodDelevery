@@ -4,3 +4,4 @@ nadia:bosundhora:employee arafat:pasta
 sumon:kuril:employee rafi:chiken fry:coke
 tasnim:mirpur:delivered:kacci biriani:finni:borhani
 nadia:bosundhora:delivered:spring roll:popcorn
+nafim:uttora:none:juice:cake

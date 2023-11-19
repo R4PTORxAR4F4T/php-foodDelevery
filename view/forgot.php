@@ -36,9 +36,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         if (trim($parts[0]) == $checkname && trim($parts[1]) == $checkemail) {
             $userFound = true;
+            $role = trim($parts[4]);
 
             if ($newpassword == $confirmNewPassword) {
-                $data = $checkname . ':' . $checkemail . ':' . $newpassword . ':' . $confirmNewPassword . "\n";
+                $data = $checkname . ':' . $checkemail . ':' . $newpassword . ':' . $confirmNewPassword . ':' . $role . "\n";
                 $contents = file_get_contents('../data/userAccInfo.txt');
                 $contents = str_replace($line, $data, $contents);
                 file_put_contents('../data/userAccInfo.txt', $contents);
